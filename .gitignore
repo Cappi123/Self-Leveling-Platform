@@ -1,0 +1,21 @@
+# macOS metadata
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# STM32CubeIDE build artifacts
+SC2104-Lab5/Debug/
+SC2104-Lab5/Release/
+*.o
+*.d
+*.su
+*.elf
+*.list
+*.map
+*.hex
+*.bin
+
+# Local editor settings (optional)
+.vscode/
+.idea/
