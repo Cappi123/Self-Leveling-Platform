@@ -2,7 +2,7 @@
 
 
 ## Demo Video
-https://github.com/user-attachments/assets/f28ebde6-beee-4287-b6c0-6c971c0d67db
+https://github.com/user-attachments/assets/52adf566-223e-4400-a4ce-cfc215065e7e
 
 ## What's going on ?
 
